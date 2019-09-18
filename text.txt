@@ -1,0 +1,14 @@
+Created new WarRobot Borya-2000
+
+New robot's Borya-2000 stats:
+Name: Borya-2000
+HP: 10
+Attack: 5
+
+Created new WarRobot Mark-II
+
+New robot's Mark-II stats:
+Name: Mark-II
+HP: 11
+Attack: 5
+
